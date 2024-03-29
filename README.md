@@ -14,7 +14,8 @@ This project involves the implementation and assessment of an adaptive clusterin
 
 ## Paper Reference
 Paper Title: An Adaptive Clustering Algorithm Based on Local-Density Peaks for Imbalanced Data Without Parameters
-Paper Link: IEEE Xplore Paper Link
+- **Paper Link**: [IEEE Xplore Paper Link](https://ieeexplore.ieee.org/document/9664331)
+
 ## Dataset
 The assessment of the implemented algorithm will be performed using the dataset mentioned in the referenced paper. Additional details about the dataset can be found in the paper.
 
